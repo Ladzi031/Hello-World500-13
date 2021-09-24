@@ -1,2 +1,2 @@
 # Hello-World500-13
-Nothing much, learning how to create a new repository.
+This is, the second branch, easier than i thought is would be.
